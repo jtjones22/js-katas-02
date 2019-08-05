@@ -31,7 +31,7 @@ if (b < 0) {                            //if BOTH b AND a are less than 0 run th
 }
 }
 
-console.log(multiply(9,7))
+console.log(multiply(9,9))
 
 function power(x, n) {
 let ex = x
@@ -54,7 +54,7 @@ function factorial(n) {
 
 console.log(factorial(4))
 
-function fib(n) {
+function fibonacci(n) {
     let num1 = 0
     let num2 = 1
     let result
