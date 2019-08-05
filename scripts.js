@@ -66,4 +66,4 @@ function fibonacci(n) {
     return result
 }
 
-console.log(fib(9))
+console.log(fibonacci(9))
